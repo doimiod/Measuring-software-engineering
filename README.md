@@ -13,6 +13,7 @@ If for any reason, such as illness, you require an extension, then please contac
 
 Reading List
 The following reading list is a selection of scholarly papers, books, and online material dealing broadly with the issue of measuring workers in order to assess and enhance performance, and in some cases augment or replace with automated systems. The material is in the main focussed on the monitoring of software engineers but the broad implications concern most if not all professional collaborative work. Use it as a starting point for your exploration of the subject.
+
 https://www.youtube.com/watch?v=Dp5_1QPLps0
 
 http://www.citeulike.org/group/3370/article/12458067
